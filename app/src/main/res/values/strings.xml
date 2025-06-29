@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FitTrack</string>
+    <string name="title_activity_launcher">LauncherActivity</string>
+    <string name="title_activity_app">AppActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+</resources>

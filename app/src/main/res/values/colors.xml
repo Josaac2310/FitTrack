@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_backMain">#388E3C</color>
+    <color name="light_backSecondary">#4CAF50</color>
+    <color name="light_backTertiary">#81C784</color>
+    <color name="light_fontMain">#F1F1F1</color>
+    <color name="light_fontSecondary">#212121</color>
+
+    <color name="dark_backMain">#FFFFFF</color>
+    <color name="dark_backSecondary">#212121</color>
+    <color name="dark_backTertiary">#388E3C</color>
+    <color name="dark_fontMain">#F1F1F1</color>
+    <color name="dark_fontSecondary">#212121</color>
+</resources>
